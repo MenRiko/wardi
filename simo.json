@@ -1,1 +1,316 @@
 
+{
+   "AdsManager":{
+      "adNetwork" :"admob",
+      "interstitial_admob":"ca-app-pub-3940256099942544/1033173712",
+      "banner_admob":"ca-app-pub-3940256099942544/6300978111",
+      "native_admob":"ca-app-pub-3940256099942544/2247696110",
+
+      "interstitial_fan":"IMG_16_9_APP_INSTALL#465986095404427_474869491182754",
+      "banner_fan":"IMG_16_9_APP_INSTALL#465986095404427_474834121186291",
+      "native_fan":"IMG_16_9_APP_INSTALL#465986095404427_474850511184652"
+   },
+   "Songs" :[
+      {
+         "song_name":"صدفة",
+         "artist":"Lamchahab",
+         "song_link":"https://ls8.arabmelody.net/1453/L7n_me_9dfh_30164.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMjc1MTBf/%D9%84%D9%85%D8%B4%D8%A7%D9%87%D8%A8.png"
+      },
+      {
+         "song_name":"حلفتك يا قلبي",
+         "artist":"Lamchahab",
+         "song_link":"https://ls8.arabmelody.net/1453/L7n_me_7lftk_Ya_Qlbe_30235.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMjc1MTBf/%D9%84%D9%85%D8%B4%D8%A7%D9%87%D8%A8.png"
+      },
+      {
+         "song_name":"قلت أرحل",
+         "artist":"Lamchahab",
+         "song_link":"https://ls8.arabmelody.net/1453/L7n_me_Qlt_Ar7l_30192.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMjc1MTBf/%D9%84%D9%85%D8%B4%D8%A7%D9%87%D8%A8.png"
+      },
+      {
+         "song_name":"يقظة شعب",
+         "artist":"Lamchahab",
+         "song_link":"https://ls8.arabmelody.net/1453/L7n_me_Eqzh_Sh3b_30250.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMjc1MTBf/%D9%84%D9%85%D8%B4%D8%A7%D9%87%D8%A8.png"
+      },
+      {
+         "song_name":"المستحيل",
+         "artist":"Lamchahab",
+         "song_link":"https://ls8.arabmelody.net/1453/L7n_me_Al-mst7el_30230.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMjc1MTBf/%D9%84%D9%85%D8%B4%D8%A7%D9%87%D8%A8.png"
+      },
+      {
+         "song_name":"الطير المهاجر",
+         "artist":"Lamchahab",
+         "song_link":"https://ls8.arabmelody.net/1453/L7n_me_Al-6er_Al-mhagr_30162.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMjc1MTBf/%D9%84%D9%85%D8%B4%D8%A7%D9%87%D8%A8.png"
+      },
+      {
+         "song_name":"قطر الندى",
+         "artist":"Lamchahab",
+         "song_link":"https://ls8.arabmelody.net/1453/L7n_me_Q6r_Al-nde_30254.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMjc1MTBf/%D9%84%D9%85%D8%B4%D8%A7%D9%87%D8%A8.png"
+      },
+      {
+         "song_name":"الحب والثورة",
+         "artist":"Lamchahab",
+         "song_link":"https://ls8.arabmelody.net/1453/L7n_me_Al-7b_Oalthorh_30183.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMjc1MTBf/%D9%84%D9%85%D8%B4%D8%A7%D9%87%D8%A8.png"
+      },
+      {
+         "song_name":"الهوى الأول",
+         "artist":"Lamchahab",
+         "song_link":"https://ls8.arabmelody.net/1453/L7n_me_Al-hoe_Al-2aol_30196.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMjc1MTBf/%D9%84%D9%85%D8%B4%D8%A7%D9%87%D8%A8.png"
+      },
+      {
+         "song_name":"الريلة",
+         "artist":"Lamchahab",
+         "song_link":"https://ls8.arabmelody.net/1453/L7n_me_Al-relh_30269.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMjc1MTBf/%D9%84%D9%85%D8%B4%D8%A7%D9%87%D8%A8.png"
+      },
+      {
+         "song_name":"لو بهمسة",
+         "artist":"Lamchahab",
+         "song_link":"https://ls8.arabmelody.net/1453/L7n_me_Lo_Bhmsh_30205.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMjc1MTBf/%D9%84%D9%85%D8%B4%D8%A7%D9%87%D8%A8.png"
+      },
+      {
+         "song_name":"سؤال",
+         "artist":"Lamchahab",
+         "song_link":"https://ls8.arabmelody.net/1453/L7n_me_So2al_30281.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMjc1MTBf/%D9%84%D9%85%D8%B4%D8%A7%D9%87%D8%A8.png"
+      },
+      {
+         "song_name":"الحنينة السكرة",
+         "artist":"Lamchahab",
+         "song_link":"https://ls8.arabmelody.net/1453/L7n_me_Al-7nentulskrh_30187.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMjc1MTBf/%D9%84%D9%85%D8%B4%D8%A7%D9%87%D8%A8.png"
+      },
+      {
+         "song_name":"مافي داعي",
+         "artist":"Lamchahab",
+         "song_link":"https://ls8.arabmelody.net/1453/L7n_me_Mafe_Da3e_30266.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMjc1MTBf/%D9%84%D9%85%D8%B4%D8%A7%D9%87%D8%A8.png"
+      },
+      {
+         "song_name":"سوات العاصفة",
+         "artist":"Lamchahab",
+         "song_link":"https://ls8.arabmelody.net/1453/L7n_me_Soat_Al-3a9fh_30236.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMjc1MTBf/%D9%84%D9%85%D8%B4%D8%A7%D9%87%D8%A8.png"
+      },
+      {
+         "song_name":"أوعك يا حبيبي",
+         "artist":"Lamchahab",
+         "song_link":"https://ls8.arabmelody.net/1453/L7n_me_Ao3k_Ya_7bebe_30274.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMjc1MTBf/%D9%84%D9%85%D8%B4%D8%A7%D9%87%D8%A8.png"
+      },
+      {
+         "song_name":"جميلة ومستحيلة",
+         "artist":"Lamchahab",
+         "song_link":"https://ls8.arabmelody.net/1453/L7n_me_Gmelh_Omst7elh_30167.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMjc1MTBf/%D9%84%D9%85%D8%B4%D8%A7%D9%87%D8%A8.png"
+      },
+      {
+         "song_name":"الحزن القديم",
+         "artist":"Lamchahab",
+         "song_link":"https://ls8.arabmelody.net/1453/L7n_me_Al-7zn_Al-qdem_30171.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMjc1MTBf/%D9%84%D9%85%D8%B4%D8%A7%D9%87%D8%A8.png"
+      },
+      {
+         "song_name":"الطير المهاجر",
+         "artist":"Lamchahab",
+         "song_link":"https://ls8.arabmelody.net/1453/L7n_me_Al-6er_Al-mhagr_30240.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMjc1MTBf/%D9%84%D9%85%D8%B4%D8%A7%D9%87%D8%A8.png"
+      },
+      {
+         "song_name":"لو بكايا هماك",
+         "artist":"Lamchahab",
+         "song_link":"https://ls8.arabmelody.net/1453/L7n_me_Lo_Bkaya_Hmak_30255.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMjc1MTBf/%D9%84%D9%85%D8%B4%D8%A7%D9%87%D8%A8.png"
+      },
+      {
+         "song_name":"ليه نسيت ايامنا",
+         "artist":"Lamchahab",
+         "song_link":"https://ls8.arabmelody.net/1453/L7n_me_Leh_Nset_Ayamna_30283.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMjc1MTBf/%D9%84%D9%85%D8%B4%D8%A7%D9%87%D8%A8.png"
+      },
+      {
+         "song_name":"حنبنيهو",
+         "artist":"Lamchahab",
+         "song_link":"https://ls8.arabmelody.net/1453/L7n_me_7nbneho_30276.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMjc1MTBf/%D9%84%D9%85%D8%B4%D8%A7%D9%87%D8%A8.png"
+      },
+      {
+         "song_name":"ذات الشامة",
+         "artist":"Lamchahab",
+         "song_link":"https://ls8.arabmelody.net/1453/L7n_me_Dhat_Al-shamh_30272.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMjc1MTBf/%D9%84%D9%85%D8%B4%D8%A7%D9%87%D8%A8.png"
+      },
+      {
+         "song_name":"اكتوبر الاخضر",
+         "artist":"Lamchahab",
+         "song_link":"https://ls8.arabmelody.net/1453/L7n_me_Aktobr_Al-akhdr_30194.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMjc1MTBf/%D9%84%D9%85%D8%B4%D8%A7%D9%87%D8%A8.png"
+      },
+      {
+         "song_name":"شعبك أقوى وأكبر",
+         "artist":"Lamchahab",
+         "song_link":"https://ls8.arabmelody.net/1453/L7n_me_Sh3bk_Aqoe_O2akbr_30203.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMjc1MTBf/%D9%84%D9%85%D8%B4%D8%A7%D9%87%D8%A8.png"
+      },
+      {
+         "song_name":"حبيب القلب",
+         "artist":"Lamchahab",
+         "song_link":"https://ls8.arabmelody.net/1453/L7n_me_7beb_Al-qlb_30285.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMjc1MTBf/%D9%84%D9%85%D8%B4%D8%A7%D9%87%D8%A8.png"
+      },
+      {
+         "song_name":"نور العين",
+         "artist":"Lamchahab",
+         "song_link":"https://ls8.arabmelody.net/1453/L7n_me_Nor_Al-3en_30165.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMjc1MTBf/%D9%84%D9%85%D8%B4%D8%A7%D9%87%D8%A8.png"
+      },
+      {
+         "song_name":"يا ناسينا",
+         "artist":"Lamchahab",
+         "song_link":"https://ls8.arabmelody.net/1453/L7n_me_Ya_Nasena_30277.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMjc1MTBf/%D9%84%D9%85%D8%B4%D8%A7%D9%87%D8%A8.png"
+      },
+      {
+         "song_name":"الود",
+         "artist":"Lamchahab",
+         "song_link":"https://ls8.arabmelody.net/1453/L7n_me_Al-od_30173.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMjc1MTBf/%D9%84%D9%85%D8%B4%D8%A7%D9%87%D8%A8.png"
+      },
+      {
+         "song_name":"مرحبا يا شوق",
+         "artist":"Lamchahab",
+         "song_link":"https://ls8.arabmelody.net/1453/L7n_me_Mr7ba_Ya_Shoq_30253.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMjc1MTBf/%D9%84%D9%85%D8%B4%D8%A7%D9%87%D8%A8.png"
+      },
+      {
+         "song_name":"القمر بوبا",
+         "artist":"Lamchahab",
+         "song_link":"https://ls8.arabmelody.net/1453/L7n_me_Al-qmr_Boba_30177.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMjc1MTBf/%D9%84%D9%85%D8%B4%D8%A7%D9%87%D8%A8.png"
+      },
+      {
+         "song_name":"بيني و بينك و الأيام-الجديدة",
+         "artist":"Lamchahab",
+         "song_link":"https://ls8.arabmelody.net/1453/L7n_me_Bene_O_Benk_O_Al-2ayam-algdedh_30193.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMjc1MTBf/%D9%84%D9%85%D8%B4%D8%A7%D9%87%D8%A8.png"
+      },
+      {
+         "song_name":"بعد ايه",
+         "artist":"Lamchahab",
+         "song_link":"https://ls8.arabmelody.net/1453/L7n_me_B3d_Aeh_30169.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMjc1MTBf/%D9%84%D9%85%D8%B4%D8%A7%D9%87%D8%A8.png"
+      },
+      {
+         "song_name":"هدية",
+         "artist":"Lamchahab",
+         "song_link":"https://ls8.arabmelody.net/1453/L7n_me_Hdeh_30296.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMjc1MTBf/%D9%84%D9%85%D8%B4%D8%A7%D9%87%D8%A8.png"
+      },
+      {
+         "song_name":"وردة صبية",
+         "artist":"Lamchahab",
+         "song_link":"https://ls8.arabmelody.net/1453/L7n_me_Ordh_9beh_30217.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMjc1MTBf/%D9%84%D9%85%D8%B4%D8%A7%D9%87%D8%A8.png"
+      },
+      {
+         "song_name":"سليم الذوق",
+         "artist":"Lamchahab",
+         "song_link":"https://ls8.arabmelody.net/1453/L7n_me_Slem_Al-dhoq_30284.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMjc1MTBf/%D9%84%D9%85%D8%B4%D8%A7%D9%87%D8%A8.png"
+      },
+      {
+         "song_name":"يا طير يا طاير",
+         "artist":"Lamchahab",
+         "song_link":"https://ls8.arabmelody.net/1453/L7n_me_Ya_6er_Ya_6aer_30207.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMjc1MTBf/%D9%84%D9%85%D8%B4%D8%A7%D9%87%D8%A8.png"
+      },
+      {
+         "song_name":"بلدي يا حبوب",
+         "artist":"Lamchahab",
+         "song_link":"https://ls8.arabmelody.net/1453/L7n_me_Blde_Ya_7bob_30166.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMjc1MTBf/%D9%84%D9%85%D8%B4%D8%A7%D9%87%D8%A8.png"
+      },
+      {
+         "song_name":"أقابلك",
+         "artist":"Lamchahab",
+         "song_link":"https://ls8.arabmelody.net/1453/L7n_me_Aqablk_30178.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMjc1MTBf/%D9%84%D9%85%D8%B4%D8%A7%D9%87%D8%A8.png"
+      },
+      {
+         "song_name":"حتى الطيف رحل",
+         "artist":"Lamchahab",
+         "song_link":"https://ls8.arabmelody.net/1453/L7n_me_7te_Al-6ef_R7l_30262.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMjc1MTBf/%D9%84%D9%85%D8%B4%D8%A7%D9%87%D8%A8.png"
+      },
+      {
+         "song_name":"اسفاي",
+         "artist":"Lamchahab",
+         "song_link":"https://ls8.arabmelody.net/1453/L7n_me_Asfae_30175.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMjc1MTBf/%D9%84%D9%85%D8%B4%D8%A7%D9%87%D8%A8.png"
+      },
+      {
+         "song_name":"عصافير الخريف",
+         "artist":"Lamchahab",
+         "song_link":"https://ls8.arabmelody.net/1453/L7n_me_A9afer_Al-khref_30172.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMjc1MTBf/%D9%84%D9%85%D8%B4%D8%A7%D9%87%D8%A8.png"
+      },
+      {
+         "song_name":"قاسي قلبك",
+         "artist":"Lamchahab",
+         "song_link":"https://ls8.arabmelody.net/1453/L7n_me_Qase_Qlbk_30174.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMjc1MTBf/%D9%84%D9%85%D8%B4%D8%A7%D9%87%D8%A8.png"
+      },
+      {
+         "song_name":"اسمر اللونا",
+         "artist":"Lamchahab",
+         "song_link":"https://ls8.arabmelody.net/1453/L7n_me_Asmr_Al-lona_30180.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMjc1MTBf/%D9%84%D9%85%D8%B4%D8%A7%D9%87%D8%A8.png"
+      },
+      {
+         "song_name":"المرسال",
+         "artist":"Lamchahab",
+         "song_link":"https://ls8.arabmelody.net/1453/L7n_me_Al-mrsal_30223.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMjc1MTBf/%D9%84%D9%85%D8%B4%D8%A7%D9%87%D8%A8.png"
+      },
+      {
+         "song_name":"حدق العيون",
+         "artist":"Lamchahab",
+         "song_link":"https://ls8.arabmelody.net/1453/L7n_me_7dq_Al-3eon_30264.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMjc1MTBf/%D9%84%D9%85%D8%B4%D8%A7%D9%87%D8%A8.png"
+      },
+      {
+         "song_name":"عرس الفداء",
+         "artist":"Lamchahab",
+         "song_link":"https://ls8.arabmelody.net/1453/L7n_me_Ars_Al-fda2_30224.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMjc1MTBf/%D9%84%D9%85%D8%B4%D8%A7%D9%87%D8%A8.png"
+      },
+      {
+         "song_name":"ما تخجلي",
+         "artist":"Lamchahab",
+         "song_link":"https://ls8.arabmelody.net/1453/L7n_me_Ma_Tkhgle_30181.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMjc1MTBf/%D9%84%D9%85%D8%B4%D8%A7%D9%87%D8%A8.png"
+      },
+      {
+         "song_name":"أول غرام",
+         "artist":"Lamchahab",
+         "song_link":"https://ls8.arabmelody.net/1453/L7n_me_Aol_Ghram_30184.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMjc1MTBf/%D9%84%D9%85%D8%B4%D8%A7%D9%87%D8%A8.png"
+      },
+    
+      {
+         "song_name":"حرمت الحب والريدة",
+         "artist":"Lamchahab",
+         "song_link":"https://ls8.arabmelody.net/1453/L7n_me_7rmt_Al-7b_Oalredh_30186.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMjc1MTBf/%D9%84%D9%85%D8%B4%D8%A7%D9%87%D8%A8.png"
+      }
+   ]
+}
