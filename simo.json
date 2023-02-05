@@ -2,9 +2,9 @@
 {
    "AdsManager":{
       "adNetwork" :"admob",
-      "interstitial_admob":"ca-app-pub-3940256099942544/1033173712",
-      "banner_admob":"ca-app-pub-3940256099942544/6300978111",
-      "native_admob":"ca-app-pub-3940256099942544/2247696110",
+      "interstitial_admob":"ca-app-pub-9322101337669156/5369375049",
+      "banner_admob":"ca-app-pub-9322101337669156/3369897660",
+      "native_admob":"ca-app-pub-9322101337669156/3335205857",
 
       "interstitial_fan":"IMG_16_9_APP_INSTALL#465986095404427_474869491182754",
       "banner_fan":"IMG_16_9_APP_INSTALL#465986095404427_474834121186291",
